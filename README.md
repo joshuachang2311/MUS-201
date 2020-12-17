@@ -1,6 +1,9 @@
 # MUS 201 semester notebooks
 The repository contains assignments and exams that can be aided with Python in the course [MUS 201](http://cmp.music.illinois.edu/courses/tipei/M201/Notes/index.html) (Fundamentals of Music Theory and Practice III) fall 2020, delivered by professor Sever Tipei.
 
+## List of Python files
+ - frequency.py: contains `Frequency`, a class that stores the frequency, pitch class and octave of a musical note
+
 ## List of Jupyter Notebooks
  - assignment 2.ipynb: overtone series
  - assignment 6.ipynb: tone-row music
